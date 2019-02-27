@@ -1,4 +1,4 @@
 # Chefwu
-Website project using CSS and Javascript
+Website for a restaurant - project using CSS and Javascript (Jquery)
 
 http://blink.dreamhosters.com/chefwu/
