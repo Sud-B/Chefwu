@@ -1,4 +1,4 @@
 # Chefwu
-Website for a restaurant - project using CSS and Javascript (Jquery)
+Website for a restaurant - project using Jquery
 
 http://sudhirb.sgedu.site/chefwu/
